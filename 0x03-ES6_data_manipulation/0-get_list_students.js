@@ -1,5 +1,6 @@
 /**
  * Retrieves a list of students.
+ *
  * @returns an array of objects.
  */
 export default function getListStudents() {

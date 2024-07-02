@@ -1,5 +1,6 @@
 /**
  * Updates the grades of a list of students in a given city.
+ *
  * @returns updated students list.
  */
 export default function updateStudentGradeByCity(students, city, newGrades) {

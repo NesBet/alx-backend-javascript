@@ -1,5 +1,6 @@
 /**
  * Retrieves the sum of ids of a list of students.
+ *
  * @returns a number
  */
 export default function getStudentIdsSum(students) {

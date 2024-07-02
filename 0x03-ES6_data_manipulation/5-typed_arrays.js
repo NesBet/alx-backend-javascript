@@ -1,5 +1,6 @@
 /**
  * Creates a buffer array with a given position set to a given value.
+ *
  * @returns typed array.
  */
 export default function createInt8TypedArray(length, position, value) {
